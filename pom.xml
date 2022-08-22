@@ -120,6 +120,7 @@
         <module>hugegraph-palo</module>
         <module>hugegraph-hbase</module>
         <module>hugegraph-postgresql</module>
+      <module>hugegraph-demo</module>
     </modules>
 
     <dependencyManagement>
